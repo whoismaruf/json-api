@@ -11,7 +11,8 @@
                 "Mathematics and Statistics",
                 "General Knowledge",
                 "Microsoft Office"
-            ]
+            ],
+            "img": "https://i.ibb.co/9rcVhGM/pngegg.png"
         },
         {
             "id": 2,
@@ -23,7 +24,8 @@
                 "Online Training",
                 "Virtual Test",
                 "Open Communication"
-            ]
+            ],
+            "img": "https://i.ibb.co/Jqnc3g9/Png-Item-2423261.png"
         },
         {
             "id": 3,
@@ -35,7 +37,8 @@
                 "Original Environment",
                 "Interviews",
                 "Instant Marking"
-            ]
+            ],
+            "img": "https://i.ibb.co/rFnPp2q/Png-Item-311873.png"
         },
         {
             "id": 4,
@@ -47,7 +50,8 @@
                 "Find Scholarship",
                 "Get Admission",
                 "Air Ticket"
-            ]
+            ],
+            "img": "https://i.ibb.co/w7QyBH0/pngegg-1.png"
         }
     ]
 }
