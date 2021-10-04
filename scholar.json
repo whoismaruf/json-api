@@ -1,0 +1,57 @@
+{
+    "status": 200,
+    "services": [
+        {
+            "id": 1,
+            "startingPrice": 10,
+            "name": "Interactive Course",
+            "details": "We provide the best interactive course to make you fully prepare for your next journey.",
+            "features": [
+                "GRE/IELTS",
+                "Mathematics and Statistics",
+                "General Knowledge",
+                "Microsoft Office"
+            ],
+            "img": "https://i.ibb.co/9rcVhGM/pngegg.png"
+        },
+        {
+            "id": 2,
+            "startingPrice": 40,
+            "name": "Language Course",
+            "details": "Before you move to any country, you can join our language classes to sharpen up your language profeciency",
+            "features": [
+                "Spanish/German/French",
+                "Online Training",
+                "Virtual Test",
+                "Open Communication"
+            ],
+            "img": "https://i.ibb.co/Jqnc3g9/Png-Item-2423261.png"
+        },
+        {
+            "id": 3,
+            "startingPrice": 100,
+            "name": "Mock Tests",
+            "details": "Mock tests will help you to prepare yourself for joining your next university in new country.",
+            "features": [
+                "Interactive Tests",
+                "Original Environment",
+                "Interviews",
+                "Instant Marking"
+            ],
+            "img": "https://i.ibb.co/rFnPp2q/Png-Item-311873.png"
+        },
+        {
+            "id": 4,
+            "startingPrice": 150,
+            "name": "On-boarding",
+            "details": "On-boarding helps to get and set your study college and scholarship at oversea.",
+            "features": [
+                "VISA Processing",
+                "Find Scholarship",
+                "Get Admission",
+                "Air Ticket"
+            ],
+            "img": "https://i.ibb.co/w7QyBH0/pngegg-1.png"
+        }
+    ]
+}
